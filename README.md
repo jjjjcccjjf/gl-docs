@@ -103,7 +103,8 @@ json format:
 ```javascript
 {
    "unsubscribed":{
-          "subscriber_number":"9171234567",                                                                                                      "access_token":"abcdefghijklmnopqrstuvwxyz",
+          "subscriber_number":"9171234567",
+          "access_token":"abcdefghijklmnopqrstuvwxyz",
           "time_stamp": "2014-10-19T12:00:00"
    }
 }
